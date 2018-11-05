@@ -13,3 +13,4 @@ as a starting point, i want to add the following:
 - a drum kit or other music creation thing 
 - word counter 
 - text analyzer 
+- some kind of form i can take notes on
