@@ -14,3 +14,4 @@ as a starting point, i want to add the following:
 - word counter 
 - text analyzer 
 - some kind of form i can take notes on
+- useful code snippits (time convert function)
